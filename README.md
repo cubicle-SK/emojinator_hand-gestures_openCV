@@ -1,8 +1,8 @@
 # emojinator_openCV
 ## After 10 epoch/iterations:
-lloss: 0.0041 - acc: 0.9987 - val_loss: 0.1053 - val_acc: 0.9857
+loss: 0.0048 - acc: 0.9997 - val_loss: 0.0185 - val_acc: 0.9982
 
-## Accuracy ~ 98.57%
+## Accuracy ~ 99.82%
 
 ## Implementations
 1)For getting gestures: gestures.py
