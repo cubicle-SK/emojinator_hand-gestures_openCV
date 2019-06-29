@@ -6,6 +6,7 @@ lloss: 0.0041 - acc: 0.9987 - val_loss: 0.1053 - val_acc: 0.9857
 
 ## Implementations
 Press 'c' to start capturing images.
+
 ####### For getting gestures: gestures.py
 ####### Converting gestures into CSV: CSVges.py
 ####### Training gesture.csv : train_ges.py
