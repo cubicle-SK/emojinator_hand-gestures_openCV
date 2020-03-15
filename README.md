@@ -15,4 +15,4 @@ loss: 0.0048 - acc: 0.9997 - val_loss: 0.0185 - val_acc: 0.9982
 
 RESULT:
 
-![result] (EMOJI.gif)
+![result](EMOJI.gif)
